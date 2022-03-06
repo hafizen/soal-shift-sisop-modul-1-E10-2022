@@ -85,7 +85,7 @@ Tampilan hasil file ``ratarata.txt``.
 ![Tampilan hasil file ratarata.txt](Images/203.png)
 
 Tampilan hasil file ``result.txt``.
-![Tampilan file result.txt](images/204.png)
+![Tampilan file result.txt](Images/204.png)
 
 ## Kendala Pengerjaan
 ___
