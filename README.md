@@ -77,4 +77,10 @@ cat $logLocation | awk -F: ' /22/ && /Jan/ && /2022:02/ {gsub(/"/, "", $1)  ip[$
 ```
 
 ## Output
-___
+![folder forensic_log_website_daffainfo_log](SS/201.png)
+
+![Tampilan isi folder forensic_log_website_daffainfo_log](Images/202)
+
+![Tampilan hasil file ratarata.txt](Images/203)
+
+![Tampilan file result.txt](images/204)
